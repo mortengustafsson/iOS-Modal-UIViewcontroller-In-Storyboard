@@ -1,7 +1,7 @@
 # iOS-Modal-UIViewcontroller-In-Storyboard
 Present a Modal UIViewController, with transparent background on top of another UIViewController using only Storyboard. 
 
-Demo: (Click to see video on YouTube.) 
+Demo: (Click on the image to see the Demo on YouTube.) 
 [![iOS Modal UIViewcontroller In Storyboard](http://i.imgur.com/D7CcGG7.jpg)](https://youtu.be/aB05VddAUdw)
 
 ## Author:
